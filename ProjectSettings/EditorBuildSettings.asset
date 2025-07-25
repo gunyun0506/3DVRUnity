@@ -9,11 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 13f6f87036926f94ab0417ca1b31725c
   - enabled: 1
-    path: Assets/Scenes/BasicScene.unity
+    path: Assets/Scenes/Lobby.unity
     guid: bc761d9a86b33554f85fd11bb1f87ba3
   - enabled: 1
     path: Assets/Scenes/MyRoom.unity
     guid: 646b4f35fc49190478ae19e6b7d3c550
+  - enabled: 1
+    path: Assets/Scenes/Racing.unity
+    guid: 1638772f556852b4c89aea77f64603b7
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: f60b2a3a16c64d44d9d74447087f7484
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e3aee76b9372917449aef639e2f74814,
       type: 2}
